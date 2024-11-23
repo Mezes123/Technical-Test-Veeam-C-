@@ -1,0 +1,14 @@
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\bin\Debug\net8.0\FolderSyncApp.exe
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\bin\Debug\net8.0\FolderSyncApp.deps.json
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\bin\Debug\net8.0\FolderSyncApp.runtimeconfig.json
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\bin\Debug\net8.0\FolderSyncApp.dll
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\bin\Debug\net8.0\FolderSyncApp.pdb
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.AssemblyInfoInputs.cache
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.AssemblyInfo.cs
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.csproj.CoreCompileInputs.cache
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.dll
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\refint\FolderSyncApp.dll
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.pdb
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\FolderSyncApp.genruntimeconfig.cache
+C:\Users\mezes\Documents\Projects\VeeamTechTest\FolderSyncApp\obj\Debug\net8.0\ref\FolderSyncApp.dll
